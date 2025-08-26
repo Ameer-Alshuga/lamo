@@ -35,7 +35,7 @@
     IMPORTANT: Make sure you have uploaded your screenshot to an "assets" folder
     in your repository for this link to work correctly.
 -->
-![Application Screenshot](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/screenshot.png) 
+![Application Screenshot](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/Screenshot (1063).png) 
 
 ## 🛠️ Getting Started
 
