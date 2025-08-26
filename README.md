@@ -29,13 +29,13 @@
     -   Open the original tweet in a browser with a double-click.
 -   **Export to Excel:** Easily export all collected data to a user-selected `.xlsx` file.
 
-## 📸 Application Screenshot
+## 📸 Application Screenshots
 
-<!-- 
-    IMPORTANT: Make sure you have uploaded your screenshot to an "assets" folder
-    in your repository for this link to work correctly.
--->
-![Application Screenshot](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/Screenshot (1063).png) 
+Here's a look at the application in action.
+
+| Main Interface & Settings | Real-time Data View | Export to Excel |
+| :---: | :---: | :---: |
+| ![Main Interface](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/image.png) | ![Data View](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/image%20(1).png) | ![Export Dialog](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/image%20(2).png) |
 
 ## 🛠️ Getting Started
 
