@@ -1,4 +1,17 @@
-# File: app.py (Fixed Date Filter Bug)
+# ==============================================================================
+# Twitter Scraper Pro - A GUI-based Twitter Data Scraping Tool
+#
+# Author: Ameer Alshuga
+# GitHub: https://github.com/Ameer-Alshuga
+# Date: August 2025
+#
+# Description:
+# This application allows users to scrape tweet data from Twitter (X)
+# without using the official API. It features a comprehensive GUI,
+# advanced filtering, real-time data viewing, and Excel export capabilities.
+#
+# © 2025 Ameer Alshuga. All rights reserved.
+# ==============================================================================
 
 import sys
 import os
