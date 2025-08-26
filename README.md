@@ -95,4 +95,3 @@ Ensure you have the following software installed on your system:
     
 4.  **On subsequent runs:** The application will launch directly to the main window.
 
----```
