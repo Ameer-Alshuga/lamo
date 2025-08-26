@@ -1,0 +1,30 @@
+# ==================================
+# Session and authentication files (NEVER SHARE!)
+# تجاهل ملف الكوكيز الذي يتم إنشاؤه بعد تسجيل الدخول
+my_cookies.json
+
+# ==================================
+# Old development/script files (Local Only)
+# تجاهل ملفات التطوير القديمة للاحتفاظ بها محليًا فقط
+scraper.py
+1_login_and_save_cookies.py
+
+# ==================================
+# Python temporary files
+# تجاهل الملفات المؤقتة التي ينشئها بايثون
+__pycache__/
+*.pyc
+
+# ==================================
+# Virtual Environment folders
+# تجاهل مجلدات البيئة الافتراضية إذا استخدمتها
+venv/
+env/
+.venv/
+
+# ==================================
+# PyInstaller generated files (the executables)
+# تجاهل الملفات والبرامج التي ينشئها PyInstaller
+build/
+dist/
+*.spec
