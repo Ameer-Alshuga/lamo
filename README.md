@@ -88,7 +88,11 @@ Ensure you have the following software installed on your system:
     ```bash
     python app.py
     ```
-3.  **On the first run only:** A dialog will prompt you for your Twitter account credentials. After a successful login, a `my_cookies.json` file will be created, and the main application window will open.
+3.  **On the first run only:**
+    > **Note:** Before this step, it is highly recommended to first log into your Twitter account using a normal web browser (like Chrome or Firefox). This helps solve any security checks (like CAPTCHAs) that might otherwise block the application's login attempt.
+
+    A dialog will prompt you for your Twitter account credentials. After a successful login, a `my_cookies.json` file will be created, and the main application window will open.
+    
 4.  **On subsequent runs:** The application will launch directly to the main window.
 
 ---
