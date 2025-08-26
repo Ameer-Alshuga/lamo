@@ -33,24 +33,24 @@
 
 Here's a look at the application in action.
 
-### **Main Interface & Settings**
-The main control panel where you can define your search criteria, apply filters, and monitor the scraping process.
+### **1. Secure Login**
+On the first run, the application prompts for Twitter credentials (username, email, and password) to create a secure session cookie.
 
-![Main Interface](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/1.png)
-
----
-
-### **Real-time Data View**
-The data tab displays scraped tweets instantly in a professional, sortable table. Features include full text view, interactive links, and a right-click copy menu.
-
-![Data View](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/2.png)
+![Login Dialog](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/1.png)
 
 ---
 
-### **Export to Excel**
-After collecting the data, you can export it to a clean, organized Excel file by choosing your desired save location.
+### **2. Main Interface & Search Settings**
+The main control panel where you can define your search term, apply date and keyword filters, set the tweet limit, and monitor the scraping process.
 
-![Export Dialog](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/3.png)
+![Main Interface](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/2.png)
+
+---
+
+### **3. Data View & Export**
+The data tab displays scraped tweets instantly. You can view, sort, and interact with the data, and then export it to a clean, organized Excel file.
+
+![Data View and Export](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/3.png)
 
 ## 🛠️ Getting Started
 
@@ -95,4 +95,4 @@ Ensure you have the following software installed on your system:
     
 4.  **On subsequent runs:** The application will launch directly to the main window.
 
----
+---```
