@@ -32,11 +32,10 @@
 ## 📸 Application Screenshot
 
 <!-- 
-    IMPORTANT: Take a screenshot of your running application,
-    upload it to your GitHub repository (e.g., in a folder named "assets"), 
-    and then replace the link below with the actual link to your image. 
+    IMPORTANT: Make sure you have uploaded your screenshot to an "assets" folder
+    in your repository for this link to work correctly.
 -->
-![Application Screenshot](https://raw.githubusercontent.com/Ameer-Alshuga/your-repo-name/main/screenshot.png) 
+![Application Screenshot](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/screenshot.png) 
 
 ## 🛠️ Getting Started
 
@@ -54,13 +53,12 @@ Ensure you have the following software installed on your system:
 
 1.  **Clone the repo:**
     ```bash
-    git clone https://github.com/Ameer-Alshuga/your-repo-name.git
+    git clone https://github.com/Ameer-Alshuga/lamo.git
     ```
-    *(Replace `your-repo-name` with the actual name of your repository)*
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd lamo
     ```
 
 3.  **Install all required libraries with a single command:**
