@@ -35,7 +35,7 @@ Here's a look at the application in action.
 
 | Main Interface & Settings | Real-time Data View | Export to Excel |
 | :---: | :---: | :---: |
-| ![Main Interface](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/image.png) | ![Data View](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/image%20(1).png) | ![Export Dialog](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/image%20(2).png) |
+| ![Main Interface](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/1.png) | ![Data View](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/2.png) | ![Export Dialog](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/3.png) |
 
 ## 🛠️ Getting Started
 
