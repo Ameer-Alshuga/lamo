@@ -1,33 +1,30 @@
 # ==================================
-# Fichiers de session et d'authentification (ne jamais partager !)
 # Session and authentication files (NEVER SHARE!)
+# تجاهل ملف الكوكيز الذي يتم إنشاؤه بعد تسجيل الدخول
 my_cookies.json
+
+# ==================================
+# Old development/script files (Local Only)
+# تجاهل ملفات التطوير القديمة للاحتفاظ بها محليًا فقط
 scraper.py
 1_login_and_save_cookies.py
 
-
 # ==================================
-# Fichiers temporaires de Python
 # Python temporary files
+# تجاهل الملفات المؤقتة التي ينشئها بايثون
 __pycache__/
 *.pyc
 
 # ==================================
-# Dossiers de l'environnement virtuel
 # Virtual Environment folders
+# تجاهل مجلدات البيئة الافتراضية إذا استخدمتها
 venv/
 env/
 .venv/
 
 # ==================================
-# Fichiers générés par PyInstaller (les exécutables)
 # PyInstaller generated files (the executables)
+# تجاهل الملفات والبرامج التي ينشئها PyInstaller
 build/
 dist/
 *.spec
-
-# ==================================
-# Fichiers de configuration locaux (si vous en utilisez à l'avenir)
-# Local configuration files (if you use them in the future)
-.env
-config.ini
