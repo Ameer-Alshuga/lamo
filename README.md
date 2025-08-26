@@ -33,9 +33,24 @@
 
 Here's a look at the application in action.
 
-| Main Interface & Settings | Real-time Data View | Export to Excel |
-| :---: | :---: | :---: |
-| ![Main Interface](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/1.png) | ![Data View](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/2.png) | ![Export Dialog](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/3.png) |
+### **Main Interface & Settings**
+The main control panel where you can define your search criteria, apply filters, and monitor the scraping process.
+
+![Main Interface](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/1.png)
+
+---
+
+### **Real-time Data View**
+The data tab displays scraped tweets instantly in a professional, sortable table. Features include full text view, interactive links, and a right-click copy menu.
+
+![Data View](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/2.png)
+
+---
+
+### **Export to Excel**
+After collecting the data, you can export it to a clean, organized Excel file by choosing your desired save location.
+
+![Export Dialog](https://raw.githubusercontent.com/Ameer-Alshuga/lamo/main/assets/3.png)
 
 ## 🛠️ Getting Started
 
