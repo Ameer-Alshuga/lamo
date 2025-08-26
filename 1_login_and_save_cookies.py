@@ -5,9 +5,9 @@ from twikit import Client
 
 # --- Your Login Settings ---
 # !!! IMPORTANT: Replace with your credentials !!!
-USERNAME = ''
-EMAIL = '' 
-PASSWORD = ''
+USERNAME = '' #Twitter username
+EMAIL = '' #Twitter email
+PASSWORD = ''#Twitter password
 COOKIE_FILE_PATH = 'my_cookies.json' # This is where the session will be saved
 
 async def main():
