@@ -1,0 +1,33 @@
+# ==================================
+# Fichiers de session et d'authentification (ne jamais partager !)
+# Session and authentication files (NEVER SHARE!)
+my_cookies.json
+scraper.py
+1_login_and_save_cookies.py
+
+
+# ==================================
+# Fichiers temporaires de Python
+# Python temporary files
+__pycache__/
+*.pyc
+
+# ==================================
+# Dossiers de l'environnement virtuel
+# Virtual Environment folders
+venv/
+env/
+.venv/
+
+# ==================================
+# Fichiers générés par PyInstaller (les exécutables)
+# PyInstaller generated files (the executables)
+build/
+dist/
+*.spec
+
+# ==================================
+# Fichiers de configuration locaux (si vous en utilisez à l'avenir)
+# Local configuration files (if you use them in the future)
+.env
+config.ini
